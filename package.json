@@ -1,0 +1,19 @@
+{
+  "name": "jiro-bot",
+  "version": "1.0.0",
+  "description": "this bot is a music bot originally prorammed for otakugamers server",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yahya kamal",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "discord.js": "^12.3.1",
+    "ffmpeg": "0.0.4",
+    "fluent-ffmpeg": "^2.1.2",
+    "random-puppy": "^1.1.0",
+    "ytdl-core": "^3.2.1"
+  }
+}
